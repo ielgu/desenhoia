@@ -1,0 +1,34 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  background-color: #FCF6BD;
+  color: #ff70a6;
+  font-family: 'Caprasimo', cursive;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+.copy_right_footer {
+  position: fixed;
+  color: #f5a0bf;
+  bottom: 0;
+  width: 100%;
+  background-color:#dfe7fd;
+  line-height: 2;
+  text-align: center;
+  margin-top: 50px;
+}
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+}
+body{
+  background-color: #a9def9;
+}
